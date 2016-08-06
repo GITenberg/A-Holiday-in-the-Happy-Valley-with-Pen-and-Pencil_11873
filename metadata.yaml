@@ -1,0 +1,22 @@
+_repo: A-Holiday-in-the-Happy-Valley-with-Pen-and-Pencil_11873
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Swinburne, T. R.
+    gutenberg_agent_id: '4114'
+    url: http://www.gutenberg.org/2009/agents/4114
+description: ''
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11873'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Jammu and Kashmir (India) -- Description and travel'
+- !lcc 'DS'
+- GITenberg
+title: A Holiday in the Happy Valley with Pen and Pencil
+url: http://www.gutenberg.org/ebooks/11873
